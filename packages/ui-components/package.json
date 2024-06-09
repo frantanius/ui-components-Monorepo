@@ -34,7 +34,7 @@
     "access": "public"
   },
   "files": [
-    "lib"
+    "build"
   ],
   "gitHead": "30c7195600e2a8fc0515023ff17e49d19d1294f4"
 }
