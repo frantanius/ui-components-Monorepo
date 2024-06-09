@@ -1,5 +1,5 @@
 {
-  "name": "@makyo-app/ui-components",
+  "name": "@makyo-components/ui-components",
   "version": "1.1.1",
   "main": "build/index.js",
   "license": "MIT",
@@ -36,5 +36,5 @@
   "files": [
     "lib"
   ],
-  "gitHead": "0063a34ba81caac5ae2ddf6d5137f6e4095998fa"
+  "gitHead": "30c7195600e2a8fc0515023ff17e49d19d1294f4"
 }

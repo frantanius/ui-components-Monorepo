@@ -1,5 +1,5 @@
 {
-  "name": "@makyo-app/core",
+  "name": "@makyo-components/core",
   "author": "Frantanius S <frantanius.dev>",
   "private": true,
   "workspaces": [
