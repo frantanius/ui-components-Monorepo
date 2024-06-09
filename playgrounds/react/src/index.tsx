@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import ReactDOM from "react-dom/client";
-import { Dropdown } from "@makyo-app/ui-components";
-import "@makyo-app/ui-components/build/index.css";
+import { Dropdown } from "@makyo-components/ui-components";
+import "@makyo-components/ui-components/build/index.css";
 
 const options = [
   { value: "option1", label: "Option 1" },
