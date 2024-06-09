@@ -20,7 +20,7 @@ const Dropdown: React.FC<IDropdown> = ({
   multiple = false,
   withSearch = true,
   onChange,
-  placeholder = "Selects...",
+  placeholder = "Selects..",
   label = "Label",
 }) => {
   const [isOpen, setIsOpen] = useState(false);
