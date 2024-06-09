@@ -18,10 +18,9 @@
   "scripts": {
     "dev": "yarn lerna run dev",
     "build": "yarn lerna run build",
-    "publish": "yarn build && yarn lerna publish",
     "start:storybook": "yarn lerna run storybook",
-    "build:storybook": "yarn build && yarn lerna run build-storybook",
-    "commit": "yarn git-cz"
+    "commit": "yarn git-cz",
+    "publish": "yarn build && yarn lerna publish"
   },
   "config": {
     "commitizen": {
