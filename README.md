@@ -53,6 +53,19 @@ To get started with this monorepo:
 
    After running the app with the react playground, you can access it by opening your web browser and navigating to `http://localhost:3001`.
 
-## Demo
+4. **Add library to the Dependencies to any project react (optional):**
+
+   ```bash
+   npm or yarn install @makyo-components/ui-components
+   ```
+
+   And import the packages including the styles
+
+   ```bash
+   import { Dropdown } from '@makyo-components/ui-components';
+   import '@makyo-components/ui-components/build/index.css';
+   ```
+
+## Demo storybook
 
 [website](https://ui-components-monorepo.vercel.app/?path=/docs/dropdown--docs)
